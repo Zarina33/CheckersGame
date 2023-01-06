@@ -1,1 +1,1 @@
-# Checkers-Game-C-
+# Checkers-Game-C++
